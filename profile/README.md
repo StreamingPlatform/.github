@@ -3,5 +3,7 @@ Repository Collections about Streaming
 
 ---
 
-### Movies & TVShow:
- - Subtitles via API [Click Here](https://github.com/StreamingPlatform/SubtitlesAPI)
+### Subtitles:
+ - Subtitles API [Click Here](https://github.com/StreamingPlatform/SubtitlesAPI)
+ - Subtitles API Proxy [Click Here](https://github.com/StreamingPlatform/SubtitlesAPIProxy)
+ - Subtitles API Documents [Click Here](https://github.com/StreamingPlatform/SubtitlesAPIDocs)
